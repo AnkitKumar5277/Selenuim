@@ -2,7 +2,7 @@ import time
 import threading
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
+ 
 # This function will run the test in the given browser
 def run_test(browser_name):
     # 1. Open the browser
