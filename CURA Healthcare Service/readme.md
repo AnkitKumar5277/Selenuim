@@ -4,14 +4,6 @@ This project automates the process of booking an appointment on the **CURA Healt
 
 ---
 
-## 🔧 Requirements
-
-* Python 3.9 or above
-* Selenium 4+
-* Optional:
-  * **PyTest** → for running as a test
-  * **Allure** → for HTML reporting
-
 ## ▶️ How to Run
 
 ```
